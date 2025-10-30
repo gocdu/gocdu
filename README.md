@@ -1,9 +1,5 @@
 ## Hi there 👋
-<div style="background-color: #ff0000; color: #fff; padding: 20px;">
-  <p align="right" style="padding-right: 100px;">
-    슬라이드 내용입니다.
-  </p>
-</div>
+
 <!--
 **gocdu/gocdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
